@@ -1,4 +1,4 @@
-I love to craft solutions that "solves the problem" effectively & efficiently.
+I love solving problems effectively & efficiently.
 
 #### Reach Out
 
