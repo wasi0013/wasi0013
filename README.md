@@ -1,4 +1,4 @@
-[![Wasi](https://wasi0013.files.wordpress.com/2018/11/my_website_logo_half_circle_green-e1546027650125.png?w=143)](#)
+[![Wasi](https://wasi0013.files.wordpress.com/2022/01/wasi0013_logo.png?w=143)](#)
 
 I love solving problems effectively & efficiently.
 
