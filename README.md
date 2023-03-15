@@ -1,4 +1,4 @@
-<p align="center"><img src="https://wasi0013.files.wordpress.com/2022/06/wasi0013.gif" alt="Hi, I'm Wasi"> </p>
+<p align="center"><img src="https://wasi0013.files.wordpress.com/2022/06/wasi0013.gif" alt="Hi"> </p>
 
 <h1 align="center">Wasi</h1>
 <p align="center">
@@ -8,5 +8,3 @@
   <a href="https://fb.com/WasiMohammedAbdullah" target="blank"><img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="https://fb.com/WasiMohammedAbdullah" height="25" width="25" /></a>
   <a href="https://lichess.org/@/LifelessMachine" target="blank"><img align="center" src="https://simpleicons.org/icons/lichess.svg" alt="https://lichess.org/@/LifelessMachine" height="25" width="25" /></a>
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wasi0013&layout=compact&theme=gotham" width="512" alt="Waka Time Stats"> </p>
