@@ -9,5 +9,5 @@
   <a href="https://lichess.org/@/LifelessMachine" target="blank"><img align="center" src="https://simpleicons.org/icons/lichess.svg" alt="https://lichess.org/@/LifelessMachine" height="25" width="25" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wasi0013&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide=issues" width="1024" alt="Github Stats"> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wasi0013&layout=compact&theme=gotham" width="1024" alt="Waka Time Stats"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wasi0013&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide=issues" width="256" alt="Github Stats"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wasi0013&layout=compact&theme=gotham" width="256" alt="Waka Time Stats"> </p>
