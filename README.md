@@ -4,5 +4,4 @@
   <a href="https://twitter.com/wasi0013" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="https://twitter.com/wasi0013" height="25" width="25" /></a>
   <a href="https://linkedin.com/in/wasi0013" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="https://linkedin.com/in/wasi0013" height="25" width="25" /></a>
   <a href="https://fb.com/WasiMohammedAbdullah" target="blank"><img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="https://fb.com/WasiMohammedAbdullah" height="25" width="25" /></a>
-  <a href="https://lichess.org/@/storming_leo" target="blank"><img align="center" src="https://simpleicons.org/icons/lichess.svg" alt="https://lichess.org/@/storming_leo" height="25" width="25" /></a>
 </p>
