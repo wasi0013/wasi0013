@@ -2,6 +2,6 @@
 <p align="center">
   <a href="https://wasi0013.com/blog" target="blank"><img align="center" src="https://wasi0013.files.wordpress.com/2022/01/wasi0013_logo.png?w=1313" alt="Wasi" height="30" width="30" /></a>
   <a href="https://twitter.com/wasi0013" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="https://twitter.com/wasi0013" height="25" width="25" /></a>
-  <a href="https://linkedin.com/in/wasi0013" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="https://linkedin.com/in/wasi0013" height="25" width="25" /></a>
+  <a href="https://linkedin.com/in/wasi0013" target="blank"><img align="center" src="https://static.licdn.com/aero-v1/sc/h/8s162nmbcnfkg7a0k8nq9wwqo" alt="https://linkedin.com/in/wasi0013" height="25" width="25" /></a>
   <a href="https://fb.com/WasiMohammedAbdullah" target="blank"><img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="https://fb.com/WasiMohammedAbdullah" height="25" width="25" /></a>
 </p>
